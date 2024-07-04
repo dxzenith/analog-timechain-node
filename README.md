@@ -24,6 +24,11 @@ Bandwidth : 500 Mb/s
 ```bash
 wget https://raw.githubusercontent.com/dxzenith/analog-timechain-node/main/analog.sh && chmod +x analog.sh && ./analog.sh
 ```
+- You can check analog node logs by using this command :
+```bash
+docker logs analog
+```
+
 # Validator Setup
 - Visit : [This Site](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.testnet.analog.one#/staking/actions)
 - Click on `Validator` option in the top right corner

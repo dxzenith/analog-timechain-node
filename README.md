@@ -7,7 +7,10 @@ CPU : 8 cores
 Disk : 300 GB NVME SSD
 Bandwidth : 500 Mb/s
 ```
-- You can buy VPS from [PQ Hosting](https://pq.hosting/?from=622403)
+__You can buy VPS from__ :
+- [Contabo](https://contabo.com/en/vps/) (Credit Card/ Paypal)
+- [PQ Hosting](https://pq.hosting/?from=622403) (Credit Card/Crypto Payment accepted)
+
 
 # Wallet Set Up & Request Faucet
 

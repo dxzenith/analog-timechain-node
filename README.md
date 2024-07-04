@@ -19,6 +19,9 @@ Bandwidth : 500 Mb/s
 !faucet your..analog..wallet..address..here
 ```
 # Deployment
+
+https://github.com/dxzenith/analog-timechain-node/assets/161211651/3e1cc4b9-5494-4dd7-ac04-9029daaa6103
+
 - Open Termius / Putty
 - Paste this below mentioned command
 ```bash

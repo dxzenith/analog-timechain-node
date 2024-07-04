@@ -48,6 +48,8 @@ read -p "Give a name to your node: " NODE_NAME
 echo "export NODE_NAME=\"$NODE_NAME\"" >> ~/.bash_profile
 source ~/.bash_profile
 echo
+echo -e "${BLUE}You need to remember your Node Name as you have to submit your node name in the whitelist form ${NC}"
+echo
 
 echo -e "${BLUE}Running Analog Timechain Docker container...${NC}"
 echo
